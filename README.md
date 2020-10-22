@@ -1,5 +1,5 @@
 # PythonResearch
-================
+
 Raspberry Pi research project conducted with Prof. John Koelzer at Rockhurst University
 -----------------------------------------------------------------------------------------
 
